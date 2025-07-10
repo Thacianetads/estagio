@@ -6,6 +6,9 @@ Projeto simples em Angular que implementa um formulário com validação em etap
 
 Se os campos forem válidos, o formulário exibe a segunda etapa, com os campos de nome e idade. Ao preencher e clicar em "Enviar", os dados são exibidos em um alert.
 
+navegue até a pasta \formulario e no cmd rode o comando npm install
+depois de instalar os pacotes rode o comando npm start
+
 🧑‍💻 Autor
 
 Desenvolvido por Thaciane de Paula Fernandes
